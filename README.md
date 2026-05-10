@@ -33,9 +33,8 @@ The dataset contains healthcare-related patient information including:
 * Test Results
 * and more
 
-## 🛠️ Technologies Used
+## 🛠️ Python Libraries Used
 
-* Python
 * Pandas
 * NumPy
 * Matplotlib
