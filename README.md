@@ -106,7 +106,8 @@ Possible future enhancements:
 
 ## 🤖 Note
 
-Parts of this project were developed with the assistance of AI tools for code generation, debugging, and workflow optimization.
+* Parts of this project were developed with the assistance of AI tools for code generation, debugging, and workflow optimization.
+* This particular dataset is not ideal for machine learning, though it can be used for EDA and preprocessing practice.
 
 ## 👤 Author
 
